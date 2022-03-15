@@ -1,12 +1,12 @@
-### 👋 Hi!
+### 👋 Oi!
 
-I am a  student of Computer Engineering at the Federal University of Rio Grande. I studied Biochemical Engineering for three years before switching areas and falling in love with the world of programming. I'm working as an intern software developer at SCADIAgro, with the maintenance of ERP software with Java language, in addition to assisting in web development with TypeScript and React. I'm part of the Refinery 4.0 project of the Riograndense Oil Refinery (RPR) in partnership with the iTec/Furg-Embrapii Unit, where I work in the mobile applications development for automated readings using JavaScript and ReactNative. I'm a volunteer at [@temat_furg](https://www.instagram.com/temat_furg/), creating posts for the project's social networks and promoting the tutoring activities developed during the University's academic period.
+Sou estudante de Engenharia de Computação na Universidade Federal do Rio Grande. Cursei Engenharia Bioquímica por três anos antes de me apaixonar pelo mundo da programação e optar por trocar de área. Estou trabalhando como Desenvolvedora de Software estagiária na [SCADIAgro](https://scadiagro.com.br/), atuando na manutenção de software ERP e auxiliando no desenvolvimento web com a utilização de TypeScript e React. Faço parte do projeto [Refinaria4.0](https://www.furg.br/noticias/noticias-institucional/unidade-itec-furg-embrapii-assina-seu-primeiro-contrato-nesta-sexta-feira-19) da Refinaria de Petróleo Riograndense (RPR) em parceria com a Unidade iTec/Furg-Embrapii, atuando no desenvolvimento de aplicações mobile de leituras automatizadas com o uso de JavaScript e ReactNative. Sou voluntária no [@temat_furg](https://www.instagram.com/temat_furg/), onde fico responsável pela criação de posts para as redes sociais do projeto e divulgação das atividades de tutoria desenvolvidas durante o período letivo da Universidade.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliakonflanzfreitas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliakonflanz/)
 <br/><br/>
 --------------------
-### 👩‍💻 Technologies I use:
+### 👩‍💻 Tecnologias que uso:
 <div style="display: inline_block"><br/>
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
