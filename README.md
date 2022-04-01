@@ -3,16 +3,23 @@
 Sou estudante de Engenharia de Computação na Universidade Federal do Rio Grande. Cursei Engenharia Bioquímica por três anos antes de me apaixonar pelo mundo da programação. 
 <br/>
 
-Tenho procurado explorar algumas das áreas que a programação nos permite atuar, pretendendo, desta forma, ter um pouco de base sobre elas antes de me especializar em uma em particular.
-<br/>
-
 Estou trabalhando como Desenvolvedora de Software estagiária na [SCADIAgro](https://scadiagro.com.br/), atuando na manutenção de software ERP com linguagem Java.
 <br/>
 
 Faço parte do projeto [Refinaria4.0](https://www.furg.br/noticias/noticias-institucional/unidade-itec-furg-embrapii-assina-seu-primeiro-contrato-nesta-sexta-feira-19) da Refinaria de Petróleo Riograndense (RPR) em parceria com a Unidade iTec/Furg-Embrapii, atuando no desenvolvimento de aplicações mobile de leituras automatizadas com o uso de JavaScript e ReactNative.
 <br/>
 
-Sou voluntária no [@temat_furg](https://www.instagram.com/temat_furg/), onde fico responsável pela criação de posts para as redes sociais do projeto e divulgação das atividades de tutoria desenvolvidas durante o período letivo da Universidade. <br/><br/>
+Recentemente ingressei no projeto [Auros Robotics - Monitoramento de Fruticultura por Visão Computacional](https://www.instagram.com/p/CavB78tPXWs/) da Auros Robotics também em parceria com a Unidade iTec/Furg-Embrapii, onde colocarei em prática meus conhecimentos sobre desenvolvimento web.
+
+Sou voluntária no [@temat_furg](https://www.instagram.com/temat_furg/), onde fico responsável pela criação de posts para as redes sociais do projeto e divulgação das atividades de tutoria desenvolvidas durante o período letivo da Universidade.
+<br/>
+
+Tenho procurado explorar algumas das áreas que a programação nos permite atuar, de forma a desenvolver uma base de conhecimento sobre cada uma antes de procurar pela especialização individual.
+<br/>
+<br/>
+
+Me acompanhe nas redes:
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliakonflanzfreitas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliakonflanz/)
