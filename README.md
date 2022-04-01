@@ -1,6 +1,6 @@
-### 👋 Oi!
+### 👋 Oi, eu sou a Júlia!
 
-Sou estudante de Engenharia de Computação na Universidade Federal do Rio Grande. Cursei Engenharia Bioquímica por três anos antes de me apaixonar pelo mundo da programação. 
+Tenho 22 anos e sou estudante de Engenharia de Computação na Universidade Federal do Rio Grande. Cursei Engenharia Bioquímica por três anos antes de me apaixonar pelo mundo da programação. 
 <br/>
 
 Estou trabalhando como Desenvolvedora de Software estagiária na [SCADIAgro](https://scadiagro.com.br/), atuando na manutenção de software ERP com linguagem Java.
