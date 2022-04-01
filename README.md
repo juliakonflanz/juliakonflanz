@@ -1,6 +1,6 @@
 ### 👋 Oi!
 
-Sou estudante de Engenharia de Computação na Universidade Federal do Rio Grande. Cursei Engenharia Bioquímica por três anos antes de me apaixonar pelo mundo da programação e optar por trocar de área. 
+Sou estudante de Engenharia de Computação na Universidade Federal do Rio Grande. Cursei Engenharia Bioquímica por três anos antes de me apaixonar pelo mundo da programação. 
 <br/>
 
 Tenho procurado explorar algumas das áreas que a programação nos permite atuar, pretendendo, desta forma, ter um pouco de base sobre elas antes de me especializar em uma em particular.
