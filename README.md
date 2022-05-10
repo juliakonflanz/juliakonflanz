@@ -9,7 +9,7 @@ Estou trabalhando como Desenvolvedora de Software estagiária na [SCADIAgro](htt
 Faço parte do projeto [Refinaria4.0](https://www.furg.br/noticias/noticias-institucional/unidade-itec-furg-embrapii-assina-seu-primeiro-contrato-nesta-sexta-feira-19) da Refinaria de Petróleo Riograndense (RPR) em parceria com a Unidade iTec/Furg-Embrapii, atuando no desenvolvimento de aplicações mobile de leituras automatizadas com o uso de JavaScript e ReactNative.
 <br/>
 
-Recentemente ingressei no projeto [Auros Robotics - Monitoramento de Fruticultura por Visão Computacional](https://www.instagram.com/p/CavB78tPXWs/) da Auros Robotics também em parceria com a Unidade iTec/Furg-Embrapii, onde colocarei em prática meus conhecimentos sobre desenvolvimento web.
+Recentemente ingressei no projeto [Auros Robotics - Monitoramento de Fruticultura por Visão Computacional](https://www.instagram.com/p/CavB78tPXWs/) da Auros Robotics também em parceria com a Unidade iTec/Furg-Embrapii, onde colocarei em prática meus conhecimentos sobre redes neurais.
 
 Sou voluntária no [@temat_furg](https://www.instagram.com/temat_furg/), onde fico responsável pela criação de posts para as redes sociais do projeto e divulgação das atividades de tutoria desenvolvidas durante o período letivo da Universidade.
 <br/>
