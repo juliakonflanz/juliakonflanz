@@ -1,16 +1,12 @@
 ### 👋 Oi, eu sou a Júlia!
 
-Tenho 22 anos e sou graduanda de Engenharia de Computação na Universidade Federal do Rio Grande e Engenharia de Software na Anhanguera. Cursei Engenharia Bioquímica por 3 anos antes de trocar de área e me apaixonar pelo mundo da programação. 
+Tenho 23 anos e sou graduanda de Engenharia de Computação na Universidade Federal do Rio Grande e Engenharia de Software na Anhanguera. Cursei Engenharia Bioquímica por 3 anos antes de trocar de área e me apaixonar pelo mundo da programação. 
 <br/>
 
 Faço parte do projeto [Refinaria4.0](https://www.furg.br/noticias/noticias-institucional/unidade-itec-furg-embrapii-assina-seu-primeiro-contrato-nesta-sexta-feira-19) da Refinaria de Petróleo Riograndense (RPR) em parceria com a Unidade iTec/Furg-Embrapii, atuando no desenvolvimento de aplicações mobile de leituras automatizadas com o uso de JavaScript e ReactNative.
 <br/>
 
 Sou voluntária no [@temat_furg](https://www.instagram.com/temat_furg/), onde fico responsável pela criação de posts para as redes sociais do projeto e divulgação das atividades de tutoria desenvolvidas durante o período letivo da FURG.
-<br/>
-<br/>
-
-Me acompanhe nas redes:
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliakonflanzfreitas/)
