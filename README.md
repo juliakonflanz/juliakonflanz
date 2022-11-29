@@ -3,18 +3,10 @@
 Tenho 22 anos e sou graduanda de Engenharia de Computação na Universidade Federal do Rio Grande e Engenharia de Software na Anhanguera. Cursei Engenharia Bioquímica por 3 anos antes de trocar de área e me apaixonar pelo mundo da programação. 
 <br/>
 
-Estou trabalhando como Desenvolvedora de Software Trainee na [SCADIAgro](https://scadiagro.com.br/), atuando na manutenção de software com linguagem Java.
-<br/>
-
 Faço parte do projeto [Refinaria4.0](https://www.furg.br/noticias/noticias-institucional/unidade-itec-furg-embrapii-assina-seu-primeiro-contrato-nesta-sexta-feira-19) da Refinaria de Petróleo Riograndense (RPR) em parceria com a Unidade iTec/Furg-Embrapii, atuando no desenvolvimento de aplicações mobile de leituras automatizadas com o uso de JavaScript e ReactNative.
 <br/>
 
-Recentemente ingressei no projeto da [Auros Robotics](https://www.instagram.com/p/CavB78tPXWs/) também em parceria com a Unidade iTec/Furg-Embrapii, onde estaremos desenvolvendo soluções que possibilitem aprimorar o monitoramento de fruticultura por visão computacional, colocando em prática meus conhecimentos sobre redes neurais.
-
 Sou voluntária no [@temat_furg](https://www.instagram.com/temat_furg/), onde fico responsável pela criação de posts para as redes sociais do projeto e divulgação das atividades de tutoria desenvolvidas durante o período letivo da FURG.
-<br/>
-
-Tenho procurado explorar algumas das áreas que a programação nos permite atuar, de forma a desenvolver uma base de conhecimento sobre cada uma antes de procurar pela especialização individual.
 <br/>
 <br/>
 
